@@ -1,0 +1,15 @@
+C:\Repositories\Seminar_C#\Seminar_2\HomeWork2208\HomeWork\HomeWork15\obj\Debug\net6.0\HomeWork15.csproj.AssemblyReference.cache
+C:\Repositories\Seminar_C#\Seminar_2\HomeWork2208\HomeWork\HomeWork15\obj\Debug\net6.0\HomeWork15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\Seminar_C#\Seminar_2\HomeWork2208\HomeWork\HomeWork15\obj\Debug\net6.0\HomeWork15.AssemblyInfoInputs.cache
+C:\Repositories\Seminar_C#\Seminar_2\HomeWork2208\HomeWork\HomeWork15\obj\Debug\net6.0\HomeWork15.AssemblyInfo.cs
+C:\Repositories\Seminar_C#\Seminar_2\HomeWork2208\HomeWork\HomeWork15\obj\Debug\net6.0\HomeWork15.csproj.CoreCompileInputs.cache
+C:\Repositories\Seminar_C#\Seminar_2\HomeWork2208\HomeWork\HomeWork15\bin\Debug\net6.0\HomeWork15.exe
+C:\Repositories\Seminar_C#\Seminar_2\HomeWork2208\HomeWork\HomeWork15\bin\Debug\net6.0\HomeWork15.deps.json
+C:\Repositories\Seminar_C#\Seminar_2\HomeWork2208\HomeWork\HomeWork15\bin\Debug\net6.0\HomeWork15.runtimeconfig.json
+C:\Repositories\Seminar_C#\Seminar_2\HomeWork2208\HomeWork\HomeWork15\bin\Debug\net6.0\HomeWork15.dll
+C:\Repositories\Seminar_C#\Seminar_2\HomeWork2208\HomeWork\HomeWork15\bin\Debug\net6.0\HomeWork15.pdb
+C:\Repositories\Seminar_C#\Seminar_2\HomeWork2208\HomeWork\HomeWork15\obj\Debug\net6.0\HomeWork15.dll
+C:\Repositories\Seminar_C#\Seminar_2\HomeWork2208\HomeWork\HomeWork15\obj\Debug\net6.0\refint\HomeWork15.dll
+C:\Repositories\Seminar_C#\Seminar_2\HomeWork2208\HomeWork\HomeWork15\obj\Debug\net6.0\HomeWork15.pdb
+C:\Repositories\Seminar_C#\Seminar_2\HomeWork2208\HomeWork\HomeWork15\obj\Debug\net6.0\HomeWork15.genruntimeconfig.cache
+C:\Repositories\Seminar_C#\Seminar_2\HomeWork2208\HomeWork\HomeWork15\obj\Debug\net6.0\ref\HomeWork15.dll
